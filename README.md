@@ -1,1 +1,4 @@
 # CreditRiskAssessment
+Credit Risk is a risk of default on a debt that may arise from a non payment of borrower. It is a common problem in financial institutions all over the world and if the financial institutions dont calculate the risk factor it will lead to a closure of that institution. With the help of this dataset and Machine learning methods, we can help the financial institutions identify what are the risk factors that makes people default credit. Our Predictor variable loan status is bivariate in nature.I have applied Logistic Regression, Random Forest Classifier and Decision Tree Classifier to make the Credit risk prediction.
+1. After Fitting 3 Machine Learning Algorithms i.e. Logistic Regression, Random Forest Classifier, Decision Tree Classifier the testing accuracy score of Random Forest Classifier gives 89% Accuracy score.
+2. Out of all we got only 4 important features namely Person's Income, Person Home Ownership, Loan Grade & Loan Interest Rate.
